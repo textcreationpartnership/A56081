@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant antidote, or, An answer to a pamphlet, entituled, A seasonable address to the right honorable Lord Mayor, &amp;c. touching the present election of sheriffs : in a friendly epistle to that worshipful author / from his humble servant Phil. Anglus Trueman.</title>
+            <author>Phil. Anglus Trueman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56081</idno>
+            <idno type="STC">Wing P3822</idno>
+            <idno type="STC">ESTC R18044</idno>
+            <idno type="EEBO-CITATION">12349064</idno>
+            <idno type="OCLC">ocm 12349064</idno>
+            <idno type="VID">59928</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59928)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant antidote, or, An answer to a pamphlet, entituled, A seasonable address to the right honorable Lord Mayor, &amp;c. touching the present election of sheriffs : in a friendly epistle to that worshipful author / from his humble servant Phil. Anglus Trueman.</title>
+                  <author>Phil. Anglus Trueman.</author>
+                  <author>Philo-patris.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheriffs --  England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb facs="tcp:59928:1" rendition="simple:additions"/>
+            <head>THE PROTESTANT ANTIDOTE Or an Anſwer to a PAMPHLET, Entituled, <hi>A ſeaſonable Addreſs to the Right Honourable the</hi> LORD MAYOR, <hi>&amp;c. Touching the preſent Election of Sheriffs.</hi> In a
+<hi>friendly Epiſtle</hi> to that <hi>worſhipful</hi> Author, from his humble Servant <hi>Phil. Anglus Trueman.</hi>
+            </head>
+            <opener>
+               <salute>Mounſieur Philo-patris Miſo-patriae!</salute>
+            </opener>
+            <p>HAving a months mind to give you a Bottle of Wine and wanting directions how to ſend to you by the <hi>peny-Poſt,</hi> I am forc'd to give you the Advertiſement this way. The reaſon why I am ſo ambi<g ref="char:EOLhyphen"/>tious of your acquaintance is, becauſe I fancy Thee to be a diveliſh <hi>patey fellow,</hi> a perſon of <hi>Intrigue,</hi> and <hi>Politicks;</hi> a man of
+<hi>Brains</hi> and <hi>Forehead,</hi> a <hi>deep one</hi> I'le warrant thee. Thou ſayſt indeed thou are a <hi>Citizen,</hi> but never truſt me if I can tell how to believe thee; a <hi>Citizen?</hi> man! why thou Writeſt like any <hi>Doctor,</hi> Mr. <hi>Coleman</hi> (if he were alive, again) could not do it more cleverly; didſt thou never Read his intend<g ref="char:EOLhyphen"/>ed
+<hi>Declaration?</hi> There were <hi>Sugar plum words</hi> in abundance, and very kind expreſſions for the <hi>Church of England</hi> too, and yet you know (better perhaps than I) the deſign was to root out, that <hi>peſtilent Hereſie that has ſo long domineer'd over the Northern World.</hi> Therefore I am ſtill apt to conceit thee, ſome Gentlemans <hi>By-blow</hi> at leaſt, becauſe thou art ſo complaiſant and ſo much in the
+<hi>faſhion,</hi> for alas! <hi>Be-lettering</hi> of men is all the mode of late: <hi>A Letter</hi> to Dr. <hi>Titus Oates, A Letter</hi> to the Earl of
+<hi>Shaftsbury, A Letter</hi> to the Duke of <hi>Monmouth,</hi> and now a
+<hi>Letter to the Right Honorable the Lord Mayor, Court of Aldermen, and Commoners of London.</hi> And all theſe and an hundred more
+<hi>ſcandalous</hi> Pamphlets, ſmell ſtrong of the <hi>ſame Ink,</hi> and wherein (if I miſtake not) there is not a little <hi>Gall</hi> and Roman
+<hi>Vitriol;</hi> One may give a ſhrewd gueſs at the <hi>work</hi> by the
+<hi>Forge</hi> from whence it comes: Whoever you are, that are the
+<hi>father</hi> of the <hi>Bantling</hi> (which it appears you are
+<hi>aſham'd</hi> at preſent to own) the late <hi>Intelligencer</hi> about
+<hi>Fetter lane</hi> is ſaid to be the <hi>Man-midwife;</hi>—But to the matter.—</p>
+            <p>You ſay <hi>diſtempers much prevail in our Corporation, and that 'tis high time to conſider of an expedient to cure them.</hi> What theſe <hi>diſtempers</hi> are, or <hi>who</hi> occaſions them I ſhall not inquire, but only obſerve that you ſeem to have a ſtrong opinion of your own <hi>Quackſhip,</hi> who thus ſcatter your <hi>Bills,</hi> and obtrude your <hi>Catholicons,</hi> which yet perhaps like the univerſal
+<hi>Medicines</hi> of other <hi>Empericks</hi> will prove in the
+<hi>operation</hi> worſe than the <hi>diſeaſe</hi> it ſelf, As on the other ſide you ſhew but little <hi>manners</hi> and reſpect to his
+<hi>Lordſhip</hi> and that honorable body to which you boldly Addreſs, whilſt you ſuggeſt that they are either ſo <hi>negligent</hi> as never to conſider of, or ſo <hi>weak,</hi> as not to know how to apply <hi>apt Remedies</hi> without your preſcriptions and dictates; you adviſe us well to beware of the <hi>Jeſuits</hi> deluſions, but do you think we never heard a Pick-pocket cry, <hi>ſtop thief?</hi> Though you have dreſt your ſelf up like an <hi>Angel of Light</hi> in robes of pretended
+<hi>Loyalty,</hi> and ſeeming zeal, for the <hi>eſtabliſht Church,</hi> yet your <hi>cloven</hi> foot, and the <hi>mark of the Beaſt</hi> appears now and then, and all your <hi>Art</hi> cannot conceal it, as when you caſt a ſquinting Reflection on the <hi>diſcovery</hi> of that <hi>damnable Plot,</hi> which would utterly have deſtroyed <hi>that Church,</hi> which you pretend to be ſuch a fr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end to: For you ſay, <hi>thoſe very many teſtimonies of it are now become highly eſteemed through the follies of thoſe that teſtified.</hi> 'Tis a ſtrange paradox how <hi>follies</hi> ſhould create <hi>eſteem,</hi> and we bleſs God, that even by that which you call <hi>fooliſhneſs,</hi> it hath pleaſed the All wiſe God in a great meaſure hitherto, to
+<hi>defeat</hi> the ſubtleties of all the Romiſh Achitophels, and wonderfully to preſerve the Sacred Life of our King and our Religion and properties from an inundation of ſuperſtition and tyranny.</p>
+            <p>Another place wherein your ſpeech betrays you: Is, when you complain, that I know not who lately <hi>in Authority purſued Popery ſo hot that the very Effigies of our Saviour muſt be made fuel, &amp;c.</hi> Suppoſe this true, did not a Father of the Church as much? Yes verily,
+<hi>Epiphanius</hi> in his Epiſtle to <hi>John</hi> of <hi>Jeruſalem, Epiſt.</hi> 60. aſſures us, That <hi>h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelf meeting with a vail hanging at the door of a Church died and painted and having as it were the Image of Chriſt</hi> (for the <hi>very effigies</hi> that you talk of, pray tell us, who can draw)?
+<hi>He cut it all to pieces;</hi> and was not this as bad as burning a
+<hi>popiſh veſtment,</hi> though adorned with what the cozening ſuperſticious Prieſt was pleas'd to call the Effigies of our Saviour? Nor is <hi>Euſebius</hi> leſs zealous againſt any ſuch <hi>Trumpery,</hi> in his Epiſtle to <hi>Conſtan<g ref="char:EOLhyphen"/>tia the Empreſs,</hi> who ſending to him for an Image of Chriſt, he thus roundly anſwers her—<hi>What Image do you require? ſuch as may expreſs the characters of his Divine Nature? ſurely you are inſtructed that no man hath thus ſeen the Son but the father; do you require the Image of that form of a Servant, which he took? Then you muſt underſtand that that was joyned to the Glory of his Godhead, inſomuch that his Apoſtles could not behold the Glory of his fleſh in the Mount, much more glorious, is it now having put off mortality, who is therefore able with weak and liveleſs colours, and a ſhadow, to expreſs thoſe dazling beams of ſo infinite a ſplendor?</hi> Thus you ſee ſuch Effigies were contemn'd by the <hi>fa<g ref="char:EOLhyphen"/>naticks</hi> (for ſo you'l call them) of the very <hi>primitive</hi> Ages, and do you come now as a <hi>Church of England</hi>—man to wheadle us with ſuch exploded Idolatries? No, no, Sir! The <hi>Church of England</hi> is more pure and Apoſtolical.</p>
+            <p>But what is all this to the pretended ſubject of your Letter, The <hi>Choice of Sheriffs?</hi> Why, only to ſcatter a little Popery and blacken an active <hi>Plot Proſecutor</hi> by the by, againſt whom have been forg'd a thouſand other lies and ſcandals. I confeſs the depending
+<hi>Election</hi> has made much noiſe, and outcries have been of <hi>tumults, rab<g ref="char:EOLhyphen"/>ble,</hi> and <hi>faction.</hi> But why, or on which ſide it lies, ſeems undetermined. If the right of Choice be in the <hi>Common-Hall,</hi> if they fairly Elect perſous qualified by Law, is it not a ſymptome of
+<hi>faction</hi> or <hi>turbulency</hi> for any little un<g ref="char:EOLhyphen"/>known <hi>pragmatick fellow</hi> (as ſuppoſe your <hi>venerable ſelf,</hi> Sir!) to Cenſure the body of the City as <hi>oppoſers of the preſent Conſtitution of the Government?</hi> If thoſe that ſtand for the antient <hi>priviledges</hi> and cuſtomes allow'd by <hi>Char<g ref="char:EOLhyphen"/>ter</hi> and confirm'd by many <hi>Acts of Parliament,</hi> who proceed <hi>regularly,</hi> and plead for nothing but known <hi>uſages</hi> and <hi>approved methods,</hi> never heretofore contradicted, muſt be branded with <hi>faction,</hi> who are the good ſubjects, <pb facs="tcp:59928:2" rendition="simple:additions"/> who the <hi>peaceable</hi> Citizens? Becauſe you cannot have your <hi>unlawful luſts</hi> gratified muſt you preſently ſound the Trumpet of ſedition and cry out, <hi>Why ſhall we permit our Adverſaries thus to Tryumph? let us ſtand up like men of Courage,</hi> &amp;c. Juſt as if you were going to Boxing? For my part I ſhould think it rather blame wor<g ref="char:EOLhyphen"/>thy, if any <hi>few</hi> ſhould obſtinately refuſe to acquieſſe in the determination of a <hi>Major Vote,</hi> or ſhould urge un<g ref="char:EOLhyphen"/>uſual <hi>unpreſidented</hi> proccedings, and little Stratagems and ſhams, which ſhould ſeem againſt common Right Equity, and reaſon, but whether any ſuch thing have lately been offered by thoſe you would be underſtood to complain of, is left to wiſer judgments.</p>
+            <p>But you ſeem to object ſomething againſt the perſons of ſome of the <hi>Candidates;</hi> If they are not qualified, let the law reprobate them, but all you ſay, is by way of <hi>ſly Inſinuation,</hi> had you ſpoke plainly and proved any ſuch matter, it had been worth conſideration; now tis only <hi>Rancour</hi> and <hi>Libel.</hi>
+            </p>
+            <p>I am not ignorant, tis buzz'd abroad, That one of them was nominated of the Council of ſtate in the late times of confuſion, and a liſt have been very induſtriouſly printed, concerning which having no perſonal knowledge of the Gentleman that ſeems to be aimed at, I cannot give ſo full an anſwer as might otherwiſe be done. But however there is ſo little in that objection, that any man of impartial ſenſe may abundantly be ſa<g ref="char:EOLhyphen"/>tisfied that 'tis malicious and impertinent; for,</p>
+            <p>1. In the Act of free and general pardon indempnity and oblivion
+12. <hi>Car. 2. Ca 11th. <hi>Tis enacted for the reaſons in the oreamble thereof,</hi>
+               </hi> viz <hi>To the intent that no crime whatſoever ſhould thereafter riſe in iudgment, or, be brough: in Queſtion againſt any of the Kings ſubjects (except ſuch crimes and perſons as are therein excepted) to the leaſt endamagement of them<g ref="char:punc">▪</g> or to the prejudice of their reputations by any reproach or term et diſtinction, and to bury all ſeeds of future diſcords in the breaſt of his Najeſty and in the breaſts of all his ſubjects one towards another</hi> &amp;c. <hi>That all crimes miſdemeanours,</hi> &amp;c. <hi>be pardoned, releaſed, Indempnified, diſcharged and put in utter oblivion. With a penalty therein upon any office in any law Court,</hi> &amp;c. <hi>that ſhall vex, diſquiet or grieve any perſon, pardoned, and Indempnified by the ſaid Act,</hi>
+            </p>
+            <p>From whence it appears that every perſon within mentioned (not exempted in the ſad Act) is as capable as any other of his Majeſties Subjcts to have his ſhare in the Government and ſeveral of them have been ſince honoured, dignified and employed in eminent Affairs of ſtate by his Majeſties ſpecial Election and choiſe, and conſequently.</p>
+            <p>
+               <hi>Quere.</hi> Whether the Printer and publiſher of that paper called <hi>The true liſt, &amp;c.</hi> And you <hi>Mr.</hi> Addreſſer who are harping on the ſame ſtring be not diſturbers of the publick peace, and enemies to the quiet of his Ma<g ref="char:EOLhyphen"/>jeſties good ſubjects?</p>
+            <p>2. The Printer or publiſher of that paper, would perſwade the Reader, <hi>that all thoſe perſons therein named had taken the Oath therein mentioned,</hi> which is moſt falſe and ſcandalous, for the Lord
+<hi>Fairfax</hi> never took that oath nor appeared at that Council, and General Monk was then in Scotland, and could not appear to be ſworn at that time, likewiſe Sir <hi>Thomas Widdrington,</hi> Sir <hi>Anthony Aſhley-Cooper,</hi> Alderman <hi>Love,</hi> Mr. <hi>Bethel</hi> and others, of whom I challeng that Libeller or you <hi>Mr.</hi> Addreſſer, to prove that any one of them took that Oath, and if any body ſhall report ſuch a thing and be not able to prove it, does he not deſerve the name and puniſhment of a Libeller or Slanderer?</p>
+            <p>But the willful malice in the publiſher of that paper is apparent in that the very Author from whom he taketh that liſt, <hi>viz.</hi> The continuation of <hi>Bakers</hi> Chronicle, <hi>Fol.</hi> 678. calls it only the names of the intended Counſellors of State, and ingenuouſly and truely acknowledges, that even a third part of them at leaſt refuſ<g ref="char:EOLhyphen"/>ed it, and were therefore not admitted to ſit and act. All which this Libeller conceals purpoſely to promote a cauſeleſs ſcandal.</p>
+            <p>3. Tis well known, that Vice-Admiral <hi>Lawſon</hi> (if he did take the Oath) appeared very faithful to the King after his Reſtauration, and loſt his life in his Majeſties ſervice at ſea, and why unleſs to ſerve ſome popiſh de<g ref="char:EOLhyphen"/>ſign, amuſe people, and raiſe feuds and Animoſities; ſhould the Author of this paper now revive this ſtory and ſo falſly repreſented, ſtriving to infect the people with prejudices and ſlanders againſt diverſe perſons of worth and honeſt reputation?</p>
+            <p>In which deſign you Mr. Addreſſer, are likewiſe engaged, and tho your words are ſmoother than oil, yet the poiſon of aſps ſeems to be in your heart, but the world is pretty wel aware of your devices, you ſpit your venom but in vain: Let us therefore I beſeech you, noble Sir, Injoy that <hi>Peace</hi> with you ſeem to recommend, Alarm not the Government and your Neighbors with <hi>needleſs</hi> fears and falſe repreſentations of tumults and tll practi<g ref="char:EOLhyphen"/>ſes and deſigns where there are none; Forbear your ſlanders how many hundred real, ſound, ſtrict, and moſt <hi>obedient Sons of the Church of England</hi> have lately been ſtigmatiz'd with the title of <hi>Fanaticks,</hi> meerly becauſe they ſtood up for their juſt, legal, civil rights and priviledges as Citizens and Engliſh-men. Whereas you ſay, <hi>tis not ſo eaſy to introduce Popery amongſt us, as a Common-wealth,</hi> I conceive tis both a falſe and ſeditious aſſertion, but accurſed be he and let his memory rot that deſigns either of them; and in ſpight of all your little <hi>divid<g ref="char:EOLhyphen"/>ing</hi> arts, I do not doubt but to ſee his Majeſty long to <hi>continue</hi> great, dear, and glorious in the hearts of his ſub<g ref="char:EOLhyphen"/>jects, the Church of
+<hi>England</hi> to be ſupported with due Reverence, the Proteſtant Religion to flouriſh, pre<g ref="char:EOLhyphen"/>rogative, liberty, and property to be maintained according to Law, and <hi>Popery</hi> with all its plots and <hi>Abbetters</hi> however <hi>maskt</hi> or diſguiſed to be (in theſe nations ſhortly, and throughout the world in Gods determined time) utterly <hi>confounded.</hi> To which he that does not cordially ſay <hi>Amen</hi> let him be
+<hi>Anathema.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>If the unknown Author of the ſheet called the <hi>Addreſs</hi> &amp;c. ſhall within few days (as he promiſes) prove himſelf to the Right Honorable the Lord Mayor to be a <hi>Citizen</hi> and a <hi>Proteſtant</hi> I hereby Engage likewiſe to publiſh my name and openly beg his pardon for any thing wherein I may ſeem (through miſtake) to have miſrepreſented him, and upon that <hi>Iſſue</hi> I leave it.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
